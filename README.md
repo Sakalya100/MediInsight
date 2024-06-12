@@ -11,7 +11,7 @@
 <br>
 
 ### Breast Cancer Predictor
-<img src="images/Sample_Web_App_Images/sample3.png" alt="My cool logo"/>
+<img src="images/Sample_Web_App_Images/breastcancer.png" alt="My cool logo"/>
 <br>
 
 ### Malaria Predictor
